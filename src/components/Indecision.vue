@@ -100,7 +100,14 @@ h2 {
     color: white;
 }
 
+h1 {
+    text-shadow:  0 10px rgb(0 0 0 / 25%), 0 2px 2px rgb(0 0 0 / 50%);
+    font-size: 80px;
+}
+
 h2 {
-    margin-top: 150px;
+    font-size: 40px;
+    text-shadow:  0 5px rgb(0 0 0 / 25%), 0 2px 2px rgb(0 0 0 / 50%);
+    margin-top: 10%;
 }
 </style>
